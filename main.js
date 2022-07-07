@@ -4,6 +4,7 @@ function computerPlay() {
   if (number == 1) {
     turn = "rock";
   } else if (number == 2) {
+    
     turn = "paper";
   } else if (number == 3) {
     turn = "scissor";
